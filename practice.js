@@ -70,8 +70,7 @@ favoriteThings.book = "Harry Potter";
 
 var backPack ={};
 var item = "firstPocket";
-backPack["item"];
-backPack.firstPocket= "chapstick";
+backPack[item] = "chapstick";
 backPack["color"];
 backPack.color= "green";
 
